@@ -1,0 +1,13 @@
+tipo:Extra:14000:5000.0
+tipo:Corriente:12000:10000.0
+tipo:Diesel:11000:7500.0
+tipo:GNV:9000:12000.0
+surtidor:Michael Scott:Extra:0.0:Corriente:0.0:Diesel:0.0:GNV:0.0
+surtidor:Michael Scott:Extra:0.0:Corriente:0.0:Diesel:0.0:GNV:0.0
+surtidor:Dwight Schrute:Extra:0.0:Corriente:0.0:Diesel:0.0:GNV:0.0
+surtidor:Kevin Malone:Extra:0.0:Corriente:0.0:Diesel:0.0:GNV:0.0
+empleado:Kevin Malone:0
+empleado:Pam Beesly:0
+empleado:Michael Scott:0
+empleado:Jim Halpert:0
+empleado:Dwight Schrute:0
